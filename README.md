@@ -1,0 +1,7 @@
+# Health Insurance Cross Sell Prediction
+
+The client, an insurance company, seeks assistance in developing a predictive model to determine whether policyholders from the previous year would also be interested in purchasing vehicle insurance offered by the company. Insurance policies provide compensation for specified loss, damage, illness, or death in exchange for regular premium payments. This prediction model is crucial for the company as it enables targeted communication strategies, optimizing business operations, and maximizing revenue.
+
+The insurance industry operates on the principle of risk sharing, where premiums collected from numerous policyholders cover the costs of compensating the few who experience losses. Vehicle insurance, similar to medical insurance, requires customers to pay a premium to the insurance provider. In the event of an unfortunate accident involving the insured vehicle, the insurance company provides compensation, known as the sum assured, to the policyholder.
+
+To develop the predictive model, various factors need to be considered, including demographics (such as gender, age, and region code type), vehicle details (age and damage status), and policy attributes (premium amount and sourcing channel). These factors provide insights into customer behavior and preferences, enabling the company to tailor its marketing and communication strategies effectively.
